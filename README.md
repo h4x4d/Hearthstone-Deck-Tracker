@@ -4,7 +4,7 @@
 Hearthstone Deck Tracker is an automatic deck tracker and deck manager for Hearthstone.
 
 ## Installation
-- Requirements1:
+- Requirements:
   - Windows Vista or higher
   - .NET Framework 4.5 or higher
 - [Download and run the installer](https://hsdecktracker.net/download/).
